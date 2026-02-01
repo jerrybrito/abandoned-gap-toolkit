@@ -1,0 +1,2 @@
+# Requires: unlikely-void
+# (Not available on PyPI)
